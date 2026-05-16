@@ -37,6 +37,10 @@ The project leverages modern web development tools and npm packages to ensure sp
 
 ---
 
+## Admin Test:
+	email: test123@gmail.com
+	password: @Test#67!
+
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the project locally.
